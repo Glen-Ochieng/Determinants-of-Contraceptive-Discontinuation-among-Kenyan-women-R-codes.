@@ -7,3 +7,7 @@ For my fourth year project, I together with three of my classmates used some of 
 
 ## 1. Event histogram 
 We choose a histogram to demonstrate the concentration of the variable of interest- time to contraceptive discontinuation. The visual answers the question, "At each study month how many women discontinued the particular contraceptive they had?"
+
+## 2. Event times bragraphs 
+So next we wanted to visualize the contraceptive discontinuation times per exploratoty variable across time. For ease interpretation, we stratified the time (months from 2019 to 2022)  into "1-12 months", "13-24 months" and "15-36 months".
+The theme scale_fill_simpsons() was selected because it had 11 unique colours while others had 8 or 9 less, thus it could handle larger classes.
