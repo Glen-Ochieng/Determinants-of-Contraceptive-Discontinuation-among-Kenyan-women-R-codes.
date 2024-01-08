@@ -15,3 +15,4 @@ We choose a histogram to demonstrate the concentration of the variable of intere
 ## 2. Event times bragraphs 
 So next we wanted to visualize the contraceptive discontinuation times per exploratoty variable across time. For ease interpretation, we stratified the time (months from 2019 to 2022)  into "1-12 months", "13-24 months" and "15-36 months".
 The theme scale_fill_simpsons() was selected because it had 11 unique colours while others had 8 or 9 less, thus it could handle larger classes.
+Also since bargraphs work well with string categorical variables i.e. sex (male,female), most of the numeric variables were converted to string. Various methods exist to perform that tasks such as decoding, "tostring" in Stata or generating string variables conditional on if statements e.g."If gender=2, gender_string[i] = Female". Whichever works for you.
