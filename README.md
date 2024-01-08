@@ -3,7 +3,11 @@ For my fourth year project, I together with three of my classmates used some of 
 
 ***Assumptions for this study were as follows***
 1. Each partcipant was assumed to be using one contraceptive at a time.
-2. Once a participant discontinued the contraceptive they were on, they were regarded as censored.  
+2. Once a participant discontinued the contraceptive they were on, they were regarded as censored.
+
+The variables considered were as follows:
+Independent variables: Age, Contraceptive method currently used, Residence of the particpants( Urban or rural), Wealth tertile (Higher, Medium, Lower), Parity, Marital status, Education Level  
+
 
 ## 1. Event histogram 
 We choose a histogram to demonstrate the concentration of the variable of interest- time to contraceptive discontinuation. The visual answers the question, "At each study month how many women discontinued the particular contraceptive they had?"
