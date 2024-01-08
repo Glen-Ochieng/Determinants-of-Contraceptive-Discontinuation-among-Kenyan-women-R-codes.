@@ -1,5 +1,4 @@
-##The obvious initial step is to load in the dataset which I named 
-## the svl_dataset. It was a in Stata format thus for importation,
+##The obvious initial step is to load in the dataset which I named the svl_dataset. It was a in Stata format thus for importation,
 ## the package haven was instrumental.
 
 library(ggplot2)
